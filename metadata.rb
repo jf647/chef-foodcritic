@@ -1,0 +1,7 @@
+name             'foodcritic'
+maintainer       'James FitzGibbon'
+maintainer_email 'james@nadt.net'
+license          'All rights reserved'
+description      'Installs foodcritic'
+version          '0.1.0'
+depends          'cligem'
